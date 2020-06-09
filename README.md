@@ -1,5 +1,5 @@
 
-# Code for paper: FundusPosNet: A deep learning regression model for precise optic disc and macula center localization
+# Code for paper- FundusPosNet: A deep learning regression model for precise optic disc and macula center localization
 
 ## Setup
 - Download the FundusPoseNet.ipynb jupyter notebook and load the file in Google Colab.
